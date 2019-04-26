@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri|Oxygen|Spectral+SC');
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background: linear-gradient(-45deg, #dc143c, #ff8c00);
+    color: black;
+    margin: 20px;
+}
+
+a {
+   color: black;
+}
+
+img {
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: -20px;
+}
+
+h1 {
+    font-family: 'Spectral SC', serif;
+    font-size: 50px;
+    font-weight: 1000;
+    margin-top: 5px;
+}
+
+h3 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 2000;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.1rem;
+    padding: 20px;
+    margin-top: -20px;
+}
+
+ul, ol {
+    margin-top: -10px;
+}
+
+li {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.1rem;
+}
+
+section {
+    background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 475px;
+}
+
+header, footer {
+    font-weight: 1000;
+}
